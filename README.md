@@ -1,4 +1,4 @@
-# Cytokines_Neuro_Project
+# MRI - TAVI: Cytokines Project
 This repository contains the new Neuro Fertleman Project
 
 ## Installation
