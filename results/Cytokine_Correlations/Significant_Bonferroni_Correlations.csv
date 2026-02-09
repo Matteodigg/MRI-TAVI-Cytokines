@@ -1,0 +1,2 @@
+Cytokine Predictor,MRI Outcome,Spearman ρ,p-value,n,n_tests_in_group,Bonferroni_alpha_group,Sig (α=0.05),Sig (Bonferroni)
+IL-1β_T1-T4,Left Hemisphere,-0.927,0.000115,10,126,0.0003968253968253968,✓,✓
